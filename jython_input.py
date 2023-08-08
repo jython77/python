@@ -1,3 +1,4 @@
+# Python input example
 y = int(input('What year were you born? '))
 
 gen = None
